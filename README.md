@@ -56,6 +56,10 @@ Interactive Power BI dashboard built from an Excel dataset analyzing the data-ca
 Research-driven analysis identifying which page-level features are most associated with stronger Google search rankings, delivered as a reproducible Jupyter Notebook pipeline with published results.
 `Python` `Jupyter Notebook` `Data Research`
 
+**[🗄️ Retail Sales SQL Analysis](https://github.com/Muhammad-Amjad-DA/SQL-Data-Analysis)**
+SQL portfolio project analyzing a sample retail sales database — multi-table joins, aggregations, CTEs, and window functions to answer real business questions about revenue trends, top products, and customer value.
+`SQL` `Joins` `Window Functions`
+
 ---
 
 ### 📫 Connect With Me
