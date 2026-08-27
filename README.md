@@ -1,40 +1,36 @@
-<h1 align="center">Syed M. Amjad</h1>
+<h1 align="center">Muhammad Amjad</h1>
 <h3 align="center">Data Analyst | Business Intelligence & Cloud-Driven Analytics</h3>
-
-<p align="center">
-🌍 Open to <b>remote Data Analyst roles</b> in the United States, Canada, and Europe
-</p>
 
 <p align="center">
 Information Technology student building a career in data analytics — combining statistics, visualization, machine learning fundamentals, and cloud engineering practices to turn raw data into decisions that matter.
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/m-amjad-981b892b2/">
-  <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Amjad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/m-amjad-981b892b2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgX1%2FyyLST9uvfayxftfNog%3D%3D">
+<img src="https://img.shields.io/badge/LinkedIn-Muhammad_Amjad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_Pipelines-2560E0?style=flat&logo=azurepipelines&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_Pipelines-2560E0?style=flat&logo=azurepipelines&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
 </p>
 
 ---
 
 ### 🎯 Professional Summary
 
-Data analyst focused on end-to-end analytics: gathering and cleaning data, exploring it with Python and SQL, and building interactive Power BI/Tableau dashboards that help stakeholders make faster, better decisions. Comfortable working independently in distributed, remote-first teams and communicating findings clearly to technical and non-technical audiences alike. Currently expanding into cloud data engineering (Azure) and CI/CD practices (Azure Pipelines, Docker, Git) to build production-ready, industry-standard analytics workflows.
+Aspiring data analyst focused on end-to-end analytics: cleaning and exploring data, building interactive dashboards, and applying machine learning fundamentals. Currently expanding into cloud data engineering (Azure) and CI/CD practices (Azure Pipelines, Docker, Git) to build production-ready, industry-standard analytics workflows.
 
 ---
 
@@ -44,7 +40,6 @@ Data analyst focused on end-to-end analytics: gathering and cleaning data, explo
 |---|---|
 | **Data Analysis** | Python, SQL, Pandas, EDA, statistical analysis |
 | **Visualization & BI** | Power BI, Tableau, Excel, dashboard design, insight storytelling |
-| **Data Engineering** | ETL fundamentals, data modeling, data warehousing concepts |
 | **Machine Learning** | PyTorch fundamentals, scikit-learn, predictive modeling basics |
 | **Cloud & DevOps** | Microsoft Azure, Azure Pipelines, Docker, Git/GitHub Actions, CI/CD workflows |
 | **Automation & AI** | AI-assisted analysis, workflow automation |
@@ -57,17 +52,9 @@ Data analyst focused on end-to-end analytics: gathering and cleaning data, explo
 Interactive Power BI dashboard built from an Excel dataset analyzing the data-careers job market — linking salary, education, and role with career satisfaction and growth, plus insights on remote work and workforce diversity.
 `Excel` `Power BI` `Data Visualization`
 
-**[🔍 Google Search Ranking & Discoverability Capstone](https://github.com/Muhammad-Amjad-DA/ML-internship-template)** · [Live Report](https://muhammad-amjad-da.github.io/ML-internship-template/)
-Research-driven analysis identifying which page-level features are most associated with stronger Google search rankings, delivered as a reproducible Jupyter Notebook pipeline with a published, deployed report.
+**[🔍 Google Search Ranking & Discoverability Capstone](https://github.com/Muhammad-Amjad-DA/ML-internship-template)**
+Research-driven analysis identifying which page-level features are most associated with stronger Google search rankings, delivered as a reproducible Jupyter Notebook pipeline with published results.
 `Python` `Jupyter Notebook` `Data Research`
-
----
-
-### 🌍 Open to Remote Opportunities
-
-• Actively seeking **remote Data Analyst / Junior Data Analyst roles** across the **United States, Canada, and Europe**
-• Comfortable collaborating asynchronously across time zones using tools like Slack, Notion, and Jira
-• Quick to ramp up on new tools and business domains — resourceful, detail-oriented, and outcome-driven
 
 ---
 
