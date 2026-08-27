@@ -1,19 +1,19 @@
-<h1 align="center">Syed M. Amjad</h1>h1>
-<h3 align="center">Data Analyst | Business Intelligence & Cloud-Driven Analytics</h3>h3>
+<h1 align="center">Syed M. Amjad</h1>
+<h3 align="center">Data Analyst | Business Intelligence & Cloud-Driven Analytics</h3>
 
 <p align="center">
-🌍 Open to <b>remote Data Analyst roles</b>b> in the United States, Canada, and Europe
-</p>p>
+🌍 Open to <b>remote Data Analyst roles</b> in the United States, Canada, and Europe
+</p>
 
 <p align="center">
 Information Technology student building a career in data analytics — combining statistics, visualization, machine learning fundamentals, and cloud engineering practices to turn raw data into decisions that matter.
-</p>p>
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/m-amjad-981b892b2/">
   <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Amjad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>a>
-</p>p>
+</a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -28,7 +28,7 @@ Information Technology student building a career in data analytics — combining
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
-</p>p>
+</p>
 
 ---
 
