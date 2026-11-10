@@ -65,3 +65,4 @@ SQL portfolio project analyzing a sample retail sales database — multi-table j
 ### 📫 Connect With Me
 
 Open to opportunities and collaboration in data analytics — feel free to explore my repositories, connect on LinkedIn, or reach out through GitHub.
+ 
